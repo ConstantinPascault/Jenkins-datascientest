@@ -52,7 +52,7 @@ pipeline {
                 }
             stage('Merging') {
               steps {
-                echo 'Merging done'
+                echo 'Merging done.'
               }
             }
           }
